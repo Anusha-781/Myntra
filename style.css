@@ -1,0 +1,88 @@
+.Myntra_logo{
+  width: 40px;
+  height: 30px;
+  margin-top: 20px;
+}
+#Navbar{
+    display: flex;
+    border: 1px solid ;
+    gap: 20px;
+    padding: 10px;
+    background-color: #fff;
+    text-align: center;
+    font-family: "Montserrat-Bold";
+    font-size: 17px;
+    border: 0px solid;
+    
+}
+.nav{
+   margin-top: 20px;
+}
+input{
+    width: 30%;
+    height: 20px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(239, 234, 234);
+    border: 0px solid;
+    border-radius: 2px;
+
+}
+.search{
+    width: 5%;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(239, 234, 234);
+    border: 0px solid;
+    border-radius: 2px; 
+}
+.icon{
+    margin-left: 40px;
+}
+
+.slideimg{
+    width: 100%;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+.slideshow-container {
+   
+    position: relative;
+    margin: auto;
+   
+  }
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: all 0.6s ease;
+  }
+  .Slides{
+      display: flex;
+      transition: all 0.6s ease;
+  }
+  .dot:hover{
+    background-color: rgb(142, 128, 128)
+  }
+  #Block2{
+      display: flex;
+      width: 500px;
+  }
+  
+  #Block3{
+      display: grid;
+      grid-template-columns: repeat(8,1fr);
+  }
+  
+  
+  
