@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(220, 185, 185);
+}
+#container{
+    margin: auto;
+    margin: top 30px;
+    width: 500px;
+    height: 900px;
+    border: none;
+    margin-right: 350px;
+    background-color:#fff;
+    margin-bottom: 200px;
+    
+}
+#container img{
+    width: 500px;
+}
+h2{
+    margin-left: 20px;
+}
+input{
+    margin-left: 50px;
+    margin-top: 70px;
+    text-align: center;
+    height: 50px;
+    width: 400px;
+}
+p{
+    margin-left:40px;
+}
+button{
+    margin-left:  160px;
+    width: 150px;
+    height: 30px;
+    background-color:#E30B5D;
+    border: none;
+}
+.tc{
+    color: #E30B5D;
+}
+#sub{
+    background-color: #E30B5D;
+    border:none;
+    
+}
